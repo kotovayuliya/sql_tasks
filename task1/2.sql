@@ -1,0 +1,11 @@
+insert into student values (1, 'Ivan', '0503365273', 'ivan_petrov@ukr.net', 10, 'Kiev');
+insert into student values (2, 'Vladimir', '0986304862', 'vlad_peskov@gmail.com', 40, 'Poltava');
+insert into student values (3, 'Anton', '0638873397', 'anton_shevchenko@i.ua', 37, 'Kiev');
+insert into student values (4, 'Irina', '0956674423', 'irinka@gmail.com', 80, 'Kharkov');
+insert into student values (6, 'Yuliya', '0986578493', 'yuliya_kotova@gmail.com', 75, 'Odessa');
+insert into student values (7, 'Maksim', '0936938564', 'max_ivanov@yahoo.com', 4, 'Kiev');
+insert into student values (8, 'Maria', '0685546738', 'maria_goncharuk@rambler.ru', 33, 'Zhytomir');
+insert into student values (9, 'Vladimir', '0959984637', 'vladimir_kravtsov@yahoo.com', 62, 'Kiev');
+insert into student values (10, 'Elena', '0957738465', 'elena_maltseva@gmail.com', 77, 'Irpen');
+insert into student values (11, 'Yuliya', '0936554393', 'yuliya_bedronka@gmail.com', 54, 'Lvov');
+insert into student values (12, 'Olga', '0966624353', 'olga@yahoo.com', 57, 'Lvov');
